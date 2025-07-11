@@ -1,2 +1,16 @@
-# platzi_layout_project_v1
-This was my first layout project. I built it on Platzi during the Definitive HTML and CSS course.
+## CSS Layout Project 🚀
+
+My first layout built entirely with CSS
+
+### Applied technologies 🧑‍💻
+- HTML
+- CSS
+
+You can check it out live [here](https://[your-project-url]).
+
+### Contributors 🤝
+- [Adrián Vigil](https://github.com/insightvigil)
+
+#### Project developed during _Curso Definitivo de HTML y CSS by Platzi_
+
+

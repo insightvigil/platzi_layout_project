@@ -6,7 +6,7 @@ My first layout built entirely with CSS
 - HTML
 - CSS
 
-You can check it out live [here](https://[your-project-url]).
+You can check it out live [here](https://insightivigil.github.io/platzi_layout_project]).
 
 ### Contributors 🤝
 - [Adrián Vigil](https://github.com/insightvigil)
